@@ -1,2 +1,4 @@
-# Zuri-Python-Intership-2022
-rock_paper_scissors
+# I4G/Zuri Internship
+
+## Introduction
+The I4G/Zuri Internship is a summer internship program that teaches students how to code. It is a three-month program that teaches students front-end web development, back-end web development, and UI/UX design.
